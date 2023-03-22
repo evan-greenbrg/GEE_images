@@ -1,0 +1,9 @@
+shapely==1.7.1
+earthengine-api
+geemap
+numpy
+rasterio
+pyproj
+fiona
+scikit-image
+geopandas
